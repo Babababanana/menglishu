@@ -1,9 +1,11 @@
 ## Welcome to my blog
 
 ### Cloud
-[AWS Load Balancer Intro](./aws/load_balancer.md)
+- [AWS Load Balancer Intro](./aws/load_balancer.md)
 
-### Network
+### Load Balancing
+- [Nginx Examples](./load_balancing/nginx.md)
+
 ### Design Pattern
 ### Algorithm
 
